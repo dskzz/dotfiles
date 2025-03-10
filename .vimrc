@@ -27,9 +27,9 @@ colorscheme koehler
 filetype plugin indent on
 set foldmethod=syntax
 set clipboard=unnamedplus
-set backupdir=~/dm716/.vim/backup//
-set directory=~/dm716/.vim/swap//
-set undodir=~/dm716/.vim//undo//
+set backupdir=~/.vim/backup//
+set directory=~/.vim/swap//
+set undodir=~/.vim//undo//
 " set showmode
 
 
